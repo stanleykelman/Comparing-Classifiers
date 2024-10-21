@@ -104,7 +104,7 @@ Across all datasets, Logistic Regression and SVM emerged as the most effective m
 *	Seaborn
 *	Numpy
 
-#Contributing
+# Contributing
 Feel free to submit pull requests or open issues if you have any suggestions for improvements or additional features.
 
 # License 
