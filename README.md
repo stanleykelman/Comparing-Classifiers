@@ -61,7 +61,7 @@ The following visualizations are included to make the analysis more interpretabl
 *	Class imbalance visualization for the target variable y.
 ## Inferential Statistics:
 *	Grouped bar plots for comparing accuracy, precision, recall, F1-score, and support across the four models.
-*	Heatmap for visualizing the model accuracy comparisons.
+*	Tables and charts for visualizing the model accuracy comparisons.
 # Results
 Across all datasets, Logistic Regression and SVM emerged as the most effective models. Both models performed well across different metrics (accuracy, precision, recall), and they were particularly good at handling the class imbalance between clients who subscribed and those who did not.
 
