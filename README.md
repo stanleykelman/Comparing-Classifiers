@@ -6,8 +6,8 @@ The project implements and compares multiple machine learning algorithms using v
 
 # Objective
 The primary objective is to compare the results of different classification algorithms and determine which is the best for predicting client subscriptions. This prediction will allow the bank to focus resources on clients most likely to subscribe, optimizing marketing efforts.
-Key Business Objective
 
+# Key Business Objective
 *	Goal: Apply and compare various classifiers (K-Nearest Neighbors, Logistic Regression, Decision Trees, and SVM) to improve marketing efficiency by predicting client subscription likelihood.
 *	Impact: Increase conversion rates and reduce costs by focusing marketing efforts on high-potential clients.
   
