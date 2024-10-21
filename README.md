@@ -77,23 +77,23 @@ Across all datasets, Logistic Regression and SVM emerged as the most effective m
 *	Deploy Logistic Regression: Given its high accuracy and computational efficiency, Logistic Regression is recommended for deployment in the bank’s marketing campaigns.
 
 # Recommendations
-•	The bank should focus on using Logistic Regression or SVM models for client subscription prediction due to their strong performance.
-•	Further work should address the class imbalance by applying techniques like oversampling or adjusting the model evaluation metrics to favor minority class detection.
-•	Call duration was identified as a key predictor for term deposit subscription, suggesting that efforts should focus on engaging clients in longer conversations during marketing calls.
+*	The bank should focus on using Logistic Regression or SVM models for client subscription prediction due to their strong performance.
+*	Further work should address the class imbalance by applying techniques like oversampling or adjusting the model evaluation metrics to favor minority class detection.
+*	Call duration was identified as a key predictor for term deposit subscription, suggesting that efforts should focus on engaging clients in longer conversations during marketing calls.
 
 # How to Run the Project
 ## 1.	Clone the repository:
-bash
-Copy code
-git clone https://github.com/stanleykelman/Comparing-Classifiers.git
+* bash
+* Copy code
+* git clone https://github.com/stanleykelman/Comparing-Classifiers.git
 ## 2.	Install dependencies: Install the necessary Python libraries using requirements.txt (or manually if there’s no file):
-bash
-Copy code
-pip install -r requirements.txt
+* bash
+* Copy code
+* pip install -r requirements.txt
 ## 3.	Run the Jupyter Notebook: Open the project in Jupyter Notebook and run the cells sequentially to see the analysis and visualizations:
-bash
-Copy code
-jupyter notebook
+* bash
+* Copy code
+* jupyter notebook
 
 # Dependencies
 *	Python 3.x
