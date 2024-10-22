@@ -115,5 +115,5 @@ If you have any questions or feedback, please contact me at:
 *	GitHub: stanleykelman
 *	Email: stanleykelman@gmail.com
 ________________________________________
-# Thank you for checking out my project! I look forward to your feedback and contributions.
+### Thank you for checking out my project! I look forward to your feedback and contributions.
 
